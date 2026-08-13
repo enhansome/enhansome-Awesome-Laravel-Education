@@ -1,0 +1,431 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome PHP",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-13T19:44:57Z",
+            "owner": "ziadoz",
+            "repo": "awesome-php",
+            "stars": 32647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Laravel",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-03T15:59:36Z",
+            "owner": "chiraggude",
+            "repo": "awesome-laravel",
+            "stars": 13087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bestmomo/laravel5-3-example",
+          "description": "A good example of how to use Laravel 5.3 to build an web application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2017-10-09T11:08:29Z",
+            "owner": "bestmomo",
+            "repo": "laravel5-3-example",
+            "stars": 219
+          }
+        }
+      ],
+      "title": "Quick References"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Learn From Awesome Video / Posts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Laravel Application",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Blade",
+            "last_commit": "2026-08-12T04:31:13Z",
+            "owner": "laravel",
+            "repo": "laravel",
+            "stars": 84804
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Framework",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T13:57:15Z",
+            "owner": "laravel",
+            "repo": "framework",
+            "stars": 34862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Homestead",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-11-06T17:51:02Z",
+            "owner": "laravel",
+            "repo": "homestead",
+            "stars": 3883
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Documentation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T13:57:53Z",
+            "owner": "laravel",
+            "repo": "docs",
+            "stars": 3475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Cashier",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-12T09:25:09Z",
+            "owner": "laravel",
+            "repo": "cashier-stripe",
+            "stars": 2542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Envoy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-07-24T21:33:58Z",
+            "owner": "laravel",
+            "repo": "envoy",
+            "stars": 1614
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Homestead Build Scripts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-05-13T17:25:59Z",
+            "owner": "laravel",
+            "repo": "settler",
+            "stars": 999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Art",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-28T13:56:31Z",
+            "owner": "laravel",
+            "repo": "art",
+            "stars": 195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laravel Website",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Open Source Laravel"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Code Style Fixer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-08-09T20:08:45Z",
+            "owner": "PHP-CS-Fixer",
+            "repo": "PHP-CS-Fixer",
+            "stars": 13547
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PHP Framework Interoperability Group",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-03T10:58:13Z",
+            "owner": "php-fig",
+            "repo": "fig-standards",
+            "stars": 12518
+          }
+        }
+      ],
+      "title": "Coding Standard"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "group",
+          "title": "Sublime Text",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Emmet",
+              "description": "Improves HTML & CSS workflow",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "JavaScript",
+                "last_commit": "2023-06-28T20:25:51Z",
+                "owner": "sergeche",
+                "repo": "emmet-sublime",
+                "stars": 5216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SublimeCodeIntel",
+              "description": "Full-featured code intelligence and smart autocomplete engine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-08-28T06:04:21Z",
+                "owner": "SublimeCodeIntel",
+                "repo": "SublimeCodeIntel",
+                "stars": 5049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DocBlockr",
+              "description": "Simplifies writing DocBlock comments",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2018-05-14T11:03:10Z",
+                "owner": "spadgos",
+                "repo": "sublime-jsdocs",
+                "stars": 3080
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sidebar Enhancements",
+              "description": "Enhancements to Sublime Text sidebar",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-17T20:30:33Z",
+                "owner": "titoBouzout",
+                "repo": "SideBarEnhancements",
+                "stars": 2221
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SublimeLinter",
+              "description": "Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-01-23T10:58:16Z",
+                "owner": "SublimeLinter",
+                "repo": "SublimeLinter",
+                "stars": 2038
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BracketHighlighter",
+              "description": "Bracket and tag highlighter",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-11-27T21:30:51Z",
+                "owner": "facelessuser",
+                "repo": "BracketHighlighter",
+                "stars": 1775
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Trailing Spaces",
+              "description": "Highlight trailing spaces and delete them",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2023-06-24T20:48:51Z",
+                "owner": "SublimeText",
+                "repo": "TrailingSpaces",
+                "stars": 890
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alignment",
+              "description": "Easy alignment of multiple selections and multi-line selections",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-10-18T21:37:59Z",
+                "owner": "wbond",
+                "repo": "sublime_alignment",
+                "stars": 520
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laravel Blade Highlighter",
+              "description": "Adds syntax definitions for the Laravel 5 Blade engine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "CSS",
+                "last_commit": "2024-06-13T17:44:41Z",
+                "owner": "Medalink",
+                "repo": "laravel-blade",
+                "stars": 417
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Syntax Highlighting for Sass",
+              "description": "Syntax highlighting for both SCSS and Sass",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "CSS",
+                "last_commit": "2018-08-01T07:48:44Z",
+                "owner": "P233",
+                "repo": "Syntax-highlighting-for-Sass",
+                "stars": 281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SublimeLinter-php",
+              "description": "SublimeLinter plugin for PHP",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2025-04-10T10:42:09Z",
+                "owner": "SublimeLinter",
+                "repo": "SublimeLinter-php",
+                "stars": 206
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Blade Snippets",
+              "description": "Provide snippets for blade template engine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2023-01-03T08:54:13Z",
+                "owner": "dev4dev",
+                "repo": "blade-snippets",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "phpfmt",
+              "description": "Plugin to format PHP code - supports also PSR1/2",
+              "children": []
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "PhpStorm IDE",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Laravel Plugin for PhpStorm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2021-12-13T17:32:53Z",
+                "owner": "Haehnchen",
+                "repo": "idea-php-laravel-plugin",
+                "stars": 570
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Develop Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T09:45:29.071Z",
+    "original_repository": "fukuball/Awesome-Laravel-Education",
+    "original_repository_sha": "9b28df837ef1d72533a3c2e7aad0e8b40bfa907b",
+    "enhanced_repository": "enhansome/enhansome-Awesome-Laravel-Education",
+    "enhanced_repository_description": null,
+    "title": "Awesome Laravel Education with stars"
+  }
+}
