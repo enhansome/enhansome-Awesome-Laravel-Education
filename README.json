@@ -14,7 +14,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32649
+            "stars": 32650
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-12T04:31:13Z",
             "owner": "laravel",
             "repo": "laravel",
-            "stars": 84804
+            "stars": 84811
           }
         },
         {
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-13T22:53:16Z",
+            "last_commit": "2026-08-14T22:03:11Z",
             "owner": "laravel",
             "repo": "framework",
-            "stars": 34862
+            "stars": 34867
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-08-12T09:25:09Z",
             "owner": "laravel",
             "repo": "cashier-stripe",
-            "stars": 2542
+            "stars": 2541
           }
         },
         {
@@ -188,10 +188,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-09T20:08:45Z",
+            "last_commit": "2026-08-15T08:45:03Z",
             "owner": "PHP-CS-Fixer",
             "repo": "PHP-CS-Fixer",
-            "stars": 13547
+            "stars": 13548
           }
         },
         {
@@ -342,7 +342,7 @@
                 "last_commit": "2024-06-13T17:44:41Z",
                 "owner": "Medalink",
                 "repo": "laravel-blade",
-                "stars": 417
+                "stars": 416
               }
             },
             {
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T09:41:17.953Z",
+    "last_updated": "2026-08-15T09:00:20.761Z",
     "original_repository": "fukuball/Awesome-Laravel-Education",
     "original_repository_sha": "9b28df837ef1d72533a3c2e7aad0e8b40bfa907b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Laravel-Education",
