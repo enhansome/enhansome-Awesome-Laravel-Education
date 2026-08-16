@@ -14,7 +14,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32650
+            "stars": 32653
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2024-07-03T15:59:36Z",
             "owner": "chiraggude",
             "repo": "awesome-laravel",
-            "stars": 13088
+            "stars": 13090
           }
         },
         {
@@ -67,7 +67,7 @@
             "last_commit": "2026-08-12T04:31:13Z",
             "owner": "laravel",
             "repo": "laravel",
-            "stars": 84811
+            "stars": 84813
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-14T22:03:11Z",
             "owner": "laravel",
             "repo": "framework",
-            "stars": 34867
+            "stars": 34869
           }
         },
         {
@@ -109,7 +109,7 @@
             "last_commit": "2026-08-12T13:57:53Z",
             "owner": "laravel",
             "repo": "docs",
-            "stars": 3475
+            "stars": 3476
           }
         },
         {
@@ -188,7 +188,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-15T08:45:03Z",
+            "last_commit": "2026-08-16T06:27:36Z",
             "owner": "PHP-CS-Fixer",
             "repo": "PHP-CS-Fixer",
             "stars": 13548
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:00:20.761Z",
+    "last_updated": "2026-08-16T09:01:01.897Z",
     "original_repository": "fukuball/Awesome-Laravel-Education",
     "original_repository_sha": "9b28df837ef1d72533a3c2e7aad0e8b40bfa907b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Laravel-Education",
