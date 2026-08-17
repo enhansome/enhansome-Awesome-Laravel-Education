@@ -6,8 +6,8 @@ A curated list of resources for learning about the Laravel PHP Framework, to hel
 
 Please select the curated list below to begin your learning of the Laravel PHP Framework!
 
-* [Chinese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/zh_TW.md) ⭐ 400 | 🐛 4 | 🌐 PHP | 📅 2022-09-03
-* [Portuguese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/pt_BR.md) ⭐ 400 | 🐛 4 | 🌐 PHP | 📅 2022-09-03
+* [Chinese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/zh_TW.md) ⭐ 399 | 🐛 4 | 🌐 PHP | 📅 2022-09-03
+* [Portuguese](https://github.com/fukuball/Awesome-Laravel-Education/blob/master/langs/pt_BR.md) ⭐ 399 | 🐛 4 | 🌐 PHP | 📅 2022-09-03
 * [English](#user-content-english-version)
 
 # How to contribute?
@@ -75,8 +75,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,653 | 🐛 83 | 📅 2026-07-13
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,090 | 🐛 85 | 📅 2024-07-03
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,652 | 🐛 83 | 📅 2026-07-13
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,093 | 🐛 85 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⭐ 219 | 🐛 4 | 🌐 JavaScript | 📅 2017-10-09 - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
@@ -255,8 +255,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,813 | 🐛 31 | 🌐 Blade | 📅 2026-08-12
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,869 | 🐛 103 | 🌐 PHP | 📅 2026-08-14
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,811 | 🐛 31 | 🌐 Blade | 📅 2026-08-16
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,870 | 🐛 106 | 🌐 PHP | 📅 2026-08-16
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
 * [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,476 | 🐛 18 | 📅 2026-08-12
 * [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,541 | 🐛 14 | 🌐 PHP | 📅 2026-08-12
@@ -268,7 +268,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,548 | 🐛 91 | 🌐 PHP | 📅 2026-08-16
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,546 | 🐛 91 | 🌐 PHP | 📅 2026-08-16
 * [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,517 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
@@ -281,11 +281,11 @@ These guys below contributed with content, translations and more. What are you w
 
 * [Sublime Text](http://www.sublimetext.com/)
   * [Emmet](https://github.com/sergeche/emmet-sublime) ⭐ 5,216 | 🐛 194 | 🌐 JavaScript | 📅 2023-06-28 - Improves HTML & CSS workflow
-  * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) ⭐ 5,049 | 🐛 346 | 🌐 Python | 📅 2023-08-28 - Full-featured code intelligence and smart autocomplete engine
+  * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) ⭐ 5,048 | 🐛 346 | 🌐 Python | 📅 2023-08-28 - Full-featured code intelligence and smart autocomplete engine
   * [DocBlockr](https://github.com/spadgos/sublime-jsdocs) ⭐ 3,080 | 🐛 151 | 🌐 Python | 📅 2018-05-14 - Simplifies writing DocBlock comments
   * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,221 | 🐛 8 | 🌐 Python | 📅 2026-07-17 - Enhancements to Sublime Text sidebar
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) ⭐ 2,038 | 🐛 19 | 🌐 Python | 📅 2026-01-23 - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP
-  * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) ⭐ 1,775 | 🐛 12 | 🌐 Python | 📅 2025-11-27 - Bracket and tag highlighter
+  * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) ⭐ 1,774 | 🐛 12 | 🌐 Python | 📅 2025-11-27 - Bracket and tag highlighter
   * [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) ⭐ 890 | 🐛 12 | 🌐 Python | 📅 2023-06-24 - Highlight trailing spaces and delete them
   * [Alignment](https://github.com/wbond/sublime_alignment) ⭐ 520 | 🐛 45 | 🌐 Python | 📅 2022-10-18 - Easy alignment of multiple selections and multi-line selections
   * [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade) ⭐ 416 | 🐛 6 | 🌐 CSS | 📅 2024-06-13 - Adds syntax definitions for the Laravel 5 Blade engine
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
