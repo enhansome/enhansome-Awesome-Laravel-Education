@@ -14,7 +14,7 @@
             "last_commit": "2026-07-13T19:44:57Z",
             "owner": "ziadoz",
             "repo": "awesome-php",
-            "stars": 32652
+            "stars": 32653
           }
         },
         {
@@ -64,10 +64,10 @@
           "repo_info": {
             "archived": false,
             "language": "Blade",
-            "last_commit": "2026-08-16T16:39:55Z",
+            "last_commit": "2026-08-17T21:45:24Z",
             "owner": "laravel",
             "repo": "laravel",
-            "stars": 84811
+            "stars": 84817
           }
         },
         {
@@ -78,10 +78,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T12:52:01Z",
+            "last_commit": "2026-08-18T07:26:14Z",
             "owner": "laravel",
             "repo": "framework",
-            "stars": 34870
+            "stars": 34872
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2024-11-06T17:51:02Z",
             "owner": "laravel",
             "repo": "homestead",
-            "stars": 3879
+            "stars": 3878
           }
         },
         {
@@ -106,10 +106,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T13:57:53Z",
+            "last_commit": "2026-08-17T21:53:42Z",
             "owner": "laravel",
             "repo": "docs",
-            "stars": 3476
+            "stars": 3477
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-03-28T13:56:31Z",
             "owner": "laravel",
             "repo": "art",
-            "stars": 195
+            "stars": 194
           }
         },
         {
@@ -188,10 +188,10 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-16T12:30:47Z",
+            "last_commit": "2026-08-17T19:20:46Z",
             "owner": "PHP-CS-Fixer",
             "repo": "PHP-CS-Fixer",
-            "stars": 13546
+            "stars": 13545
           }
         },
         {
@@ -205,7 +205,7 @@
             "last_commit": "2026-07-03T10:58:13Z",
             "owner": "php-fig",
             "repo": "fig-standards",
-            "stars": 12517
+            "stars": 12518
           }
         }
       ],
@@ -286,7 +286,7 @@
                 "last_commit": "2026-01-23T10:58:16Z",
                 "owner": "SublimeLinter",
                 "repo": "SublimeLinter",
-                "stars": 2038
+                "stars": 2039
               }
             },
             {
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:22:39.580Z",
+    "last_updated": "2026-08-18T09:07:02.485Z",
     "original_repository": "fukuball/Awesome-Laravel-Education",
     "original_repository_sha": "9b28df837ef1d72533a3c2e7aad0e8b40bfa907b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Laravel-Education",
