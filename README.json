@@ -53,7 +53,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32667
+                "stars": 32668
               }
             },
             {
@@ -68,7 +68,7 @@
                 "last_commit": "2024-07-03T15:59:36Z",
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13097
+                "stars": 13093
               }
             },
             {
@@ -105,7 +105,7 @@
                 "last_commit": "2026-08-18T13:45:25Z",
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84840
+                "stars": 84845
               }
             },
             {
@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 7548986,
                 "language": "PHP",
-                "last_commit": "2026-08-21T11:09:19Z",
+                "last_commit": "2026-08-23T08:11:48Z",
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34875
+                "stars": 34874
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2026-08-21T10:00:18Z",
                 "owner": "laravel",
                 "repo": "docs",
-                "stars": 3477
+                "stars": 3476
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-12T09:25:09Z",
                 "owner": "laravel",
                 "repo": "cashier-stripe",
-                "stars": 2542
+                "stars": 2541
               }
             },
             {
@@ -247,7 +247,7 @@
                 "last_commit": "2026-07-03T10:58:13Z",
                 "owner": "php-fig",
                 "repo": "fig-standards",
-                "stars": 12519
+                "stars": 12518
               }
             }
           ],
@@ -461,7 +461,7 @@
                     "last_commit": "2021-12-13T17:32:53Z",
                     "owner": "Haehnchen",
                     "repo": "idea-php-laravel-plugin",
-                    "stars": 570
+                    "stars": 569
                   }
                 }
               ]
@@ -476,7 +476,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T09:01:20.507Z",
+    "last_updated": "2026-08-23T09:01:19.855Z",
     "original_repository": "fukuball/Awesome-Laravel-Education",
     "original_repository_id": 48367113,
     "original_repository_sha": "9b28df837ef1d72533a3c2e7aad0e8b40bfa907b",
