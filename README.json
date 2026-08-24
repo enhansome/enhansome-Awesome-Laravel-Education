@@ -43,6 +43,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Setup Laravel excutable enviroment on AWS EC2 quickly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44745880,
+                "language": "Shell",
+                "last_commit": "2016-02-26T14:55:45Z",
+                "owner": "fukuball",
+                "repo": "ec2-laravel-evn-installer",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "New to Laravel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Awesome PHP",
               "description": null,
               "children": [],
@@ -53,7 +75,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32671
+                "stars": 32672
               }
             },
             {
@@ -105,7 +127,7 @@
                 "last_commit": "2026-08-18T13:45:25Z",
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84857
+                "stars": 84858
               }
             },
             {
@@ -117,10 +139,10 @@
                 "archived": false,
                 "id": 7548986,
                 "language": "PHP",
-                "last_commit": "2026-08-23T17:17:31Z",
+                "last_commit": "2026-08-24T14:04:45Z",
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34874
+                "stars": 34876
               }
             },
             {
@@ -229,7 +251,7 @@
                 "archived": false,
                 "id": 4344257,
                 "language": "PHP",
-                "last_commit": "2026-08-24T08:01:13Z",
+                "last_commit": "2026-08-24T10:38:06Z",
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
                 "stars": 13545
@@ -247,7 +269,7 @@
                 "last_commit": "2026-07-03T10:58:13Z",
                 "owner": "php-fig",
                 "repo": "fig-standards",
-                "stars": 12518
+                "stars": 12517
               }
             }
           ],
@@ -470,13 +492,35 @@
           "description": null,
           "node_type": "group",
           "title": "Develop Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome PHP Interview Questions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47018239,
+                "language": null,
+                "last_commit": "2024-07-29T14:21:23Z",
+                "owner": "DopplerHQ",
+                "repo": "awesome-interview-questions",
+                "stars": 84187
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interview"
         }
       ],
       "title": "English Version"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:28:33.328Z",
+    "last_updated": "2026-08-24T14:29:13.054Z",
     "original_repository": "fukuball/Awesome-Laravel-Education",
     "original_repository_id": 48367113,
     "original_repository_sha": "9b28df837ef1d72533a3c2e7aad0e8b40bfa907b",

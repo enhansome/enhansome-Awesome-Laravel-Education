@@ -61,13 +61,13 @@ These guys below contributed with content, translations and more. What are you w
 
 ## New to Laravel
 
+* [Setup Laravel excutable enviroment on AWS EC2 quickly](https://github.com/fukuball/ec2-laravel-evn-installer) ⭐ 10 | 🐛 1 | 🌐 Shell | 📅 2016-02-26
 * [Laracasts: Laravel From Scratch](https://laracasts.com/series/laravel-5-from-scratch)
 * [Laracasts: Laravel 5 Fundamentals](https://laracasts.com/series/laravel-5-fundamentals)
 * Laravel 5.1 Homestead Install Guide
   * [Laravel Homestead on Windows 8](http://sherriflemings.blogspot.ca/2015/03/laravel-homestead-on-windows-8.html)
   * [Laravel Homestead on Linux or Mac](http://laravel.com/docs/5.4/homestead) #5.4
   * [Laracasts: Say Hello to Laravel Homestead 2.0](https://laracasts.com/lessons/say-hello-to-laravel-homestead-two)
-* [Setup Laravel excutable enviroment on AWS EC2 quickly](https://github.com/fukuball/ec2-laravel-evn-installer) ⭐ 10 | 🐛 1 | 🌐 Shell | 📅 2016-02-26
 * Learn from tutorial
   * [Laravel Documentation: Basic Task List](http://laravel.com/docs/5.1/quickstart) #5.1
   * [Laravel Documentation: Intermediate Task List](http://laravel.com/docs/5.1/quickstart-intermediate) #5.1
@@ -75,7 +75,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,672 | 🐛 85 | 📅 2026-07-13
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,094 | 🐛 87 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⭐ 219 | 🐛 4 | 🌐 JavaScript | 📅 2017-10-09 - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
@@ -255,11 +255,11 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,857 | 🐛 31 | 🌐 Blade | 📅 2026-08-18
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,874 | 🐛 107 | 🌐 PHP | 📅 2026-08-23
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,858 | 🐛 31 | 🌐 Blade | 📅 2026-08-18
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,876 | 🐛 98 | 🌐 PHP | 📅 2026-08-24
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
 * [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,476 | 🐛 17 | 📅 2026-08-21
-* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,541 | 🐛 14 | 🌐 PHP | 📅 2026-08-12
+* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,541 | 🐛 15 | 🌐 PHP | 📅 2026-08-12
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,614 | 🐛 2 | 🌐 PHP | 📅 2026-08-20
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 999 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
 * [Laravel Art](https://github.com/laravel/art) ⭐ 194 | 🐛 0 | 📅 2024-03-28
@@ -268,8 +268,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,545 | 🐛 83 | 🌐 PHP | 📅 2026-08-24
-* [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,518 | 🐛 14 | 📅 2026-07-03
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,545 | 🐛 81 | 🌐 PHP | 📅 2026-08-24
+* [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,517 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
 
