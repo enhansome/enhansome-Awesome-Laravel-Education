@@ -75,7 +75,7 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32672
+                "stars": 32671
               }
             },
             {
@@ -90,7 +90,7 @@
                 "last_commit": "2024-07-03T15:59:36Z",
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13094
+                "stars": 13095
               }
             },
             {
@@ -127,7 +127,7 @@
                 "last_commit": "2026-08-18T13:45:25Z",
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84858
+                "stars": 84865
               }
             },
             {
@@ -139,10 +139,10 @@
                 "archived": false,
                 "id": 7548986,
                 "language": "PHP",
-                "last_commit": "2026-08-24T14:04:45Z",
+                "last_commit": "2026-08-25T01:16:21Z",
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34876
+                "stars": 34878
               }
             },
             {
@@ -169,10 +169,10 @@
                 "archived": false,
                 "id": 7546847,
                 "language": null,
-                "last_commit": "2026-08-21T10:00:18Z",
+                "last_commit": "2026-08-24T20:51:14Z",
                 "owner": "laravel",
                 "repo": "docs",
-                "stars": 3476
+                "stars": 3477
               }
             },
             {
@@ -326,7 +326,7 @@
                     "last_commit": "2018-05-14T11:03:10Z",
                     "owner": "spadgos",
                     "repo": "sublime-jsdocs",
-                    "stars": 3079
+                    "stars": 3078
                   }
                 },
                 {
@@ -507,7 +507,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84187
+                "stars": 84200
               }
             }
           ],
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:13.054Z",
+    "last_updated": "2026-08-25T06:18:48.016Z",
     "original_repository": "fukuball/Awesome-Laravel-Education",
     "original_repository_id": 48367113,
     "original_repository_sha": "9b28df837ef1d72533a3c2e7aad0e8b40bfa907b",
