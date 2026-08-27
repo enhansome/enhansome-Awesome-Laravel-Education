@@ -90,7 +90,7 @@
                 "last_commit": "2024-07-03T15:59:36Z",
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13091
+                "stars": 13093
               }
             },
             {
@@ -127,7 +127,7 @@
                 "last_commit": "2026-08-25T16:27:45Z",
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84880
+                "stars": 84884
               }
             },
             {
@@ -139,10 +139,10 @@
                 "archived": false,
                 "id": 7548986,
                 "language": "PHP",
-                "last_commit": "2026-08-26T13:29:55Z",
+                "last_commit": "2026-08-27T14:28:11Z",
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34884
+                "stars": 34885
               }
             },
             {
@@ -169,7 +169,7 @@
                 "archived": false,
                 "id": 7546847,
                 "language": null,
-                "last_commit": "2026-08-27T04:36:39Z",
+                "last_commit": "2026-08-27T14:52:35Z",
                 "owner": "laravel",
                 "repo": "docs",
                 "stars": 3480
@@ -184,7 +184,7 @@
                 "archived": false,
                 "id": 17388759,
                 "language": "PHP",
-                "last_commit": "2026-08-27T01:42:05Z",
+                "last_commit": "2026-08-27T12:11:05Z",
                 "owner": "laravel",
                 "repo": "cashier-stripe",
                 "stars": 2543
@@ -507,7 +507,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84222
+                "stars": 84227
               }
             }
           ],
@@ -520,7 +520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:30.898Z",
+    "last_updated": "2026-08-27T19:15:00.708Z",
     "original_repository_info": {
       "archived": false,
       "id": 48367113,
