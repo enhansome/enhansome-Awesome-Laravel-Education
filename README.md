@@ -255,20 +255,20 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,869 | 🐛 31 | 🌐 Blade | 📅 2026-08-25
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,884 | 🐛 95 | 🌐 PHP | 📅 2026-08-25
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,880 | 🐛 31 | 🌐 Blade | 📅 2026-08-25
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,884 | 🐛 103 | 🌐 PHP | 📅 2026-08-26
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,479 | 🐛 18 | 📅 2026-08-25
-* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,541 | 🐛 16 | 🌐 PHP | 📅 2026-08-12
-* [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,614 | 🐛 2 | 🌐 PHP | 📅 2026-08-20
-* [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 999 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
-* [Laravel Art](https://github.com/laravel/art) ⭐ 193 | 🐛 0 | 📅 2024-03-28
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,480 | 🐛 19 | 📅 2026-08-27
+* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,543 | 🐛 16 | 🌐 PHP | 📅 2026-08-27
+* [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,615 | 🐛 2 | 🌐 PHP | 📅 2026-08-20
+* [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 1,000 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
+* [Laravel Art](https://github.com/laravel/art) ⭐ 194 | 🐛 0 | 📅 2024-03-28
 * [Laravel Website](https://github.com/laravel/laravel.com)
 * [Laravel Antares](https://github.com/antaresproject/)
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,544 | 🐛 82 | 🌐 PHP | 📅 2026-08-24
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,547 | 🐛 81 | 🌐 PHP | 📅 2026-08-27
 * [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,516 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._

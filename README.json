@@ -127,7 +127,7 @@
                 "last_commit": "2026-08-25T16:27:45Z",
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84869
+                "stars": 84880
               }
             },
             {
@@ -139,7 +139,7 @@
                 "archived": false,
                 "id": 7548986,
                 "language": "PHP",
-                "last_commit": "2026-08-25T20:59:17Z",
+                "last_commit": "2026-08-26T13:29:55Z",
                 "owner": "laravel",
                 "repo": "framework",
                 "stars": 34884
@@ -157,7 +157,7 @@
                 "last_commit": "2024-11-06T17:51:02Z",
                 "owner": "laravel",
                 "repo": "homestead",
-                "stars": 3877
+                "stars": 3878
               }
             },
             {
@@ -169,10 +169,10 @@
                 "archived": false,
                 "id": 7546847,
                 "language": null,
-                "last_commit": "2026-08-25T21:02:35Z",
+                "last_commit": "2026-08-27T04:36:39Z",
                 "owner": "laravel",
                 "repo": "docs",
-                "stars": 3479
+                "stars": 3480
               }
             },
             {
@@ -184,10 +184,10 @@
                 "archived": false,
                 "id": 17388759,
                 "language": "PHP",
-                "last_commit": "2026-08-12T09:25:09Z",
+                "last_commit": "2026-08-27T01:42:05Z",
                 "owner": "laravel",
                 "repo": "cashier-stripe",
-                "stars": 2541
+                "stars": 2543
               }
             },
             {
@@ -202,7 +202,7 @@
                 "last_commit": "2026-08-20T12:51:23Z",
                 "owner": "laravel",
                 "repo": "envoy",
-                "stars": 1614
+                "stars": 1615
               }
             },
             {
@@ -217,7 +217,7 @@
                 "last_commit": "2024-05-13T17:25:59Z",
                 "owner": "laravel",
                 "repo": "settler",
-                "stars": 999
+                "stars": 1000
               }
             },
             {
@@ -232,7 +232,7 @@
                 "last_commit": "2024-03-28T13:56:31Z",
                 "owner": "laravel",
                 "repo": "art",
-                "stars": 193
+                "stars": 194
               }
             }
           ],
@@ -251,10 +251,10 @@
                 "archived": false,
                 "id": 4344257,
                 "language": "PHP",
-                "last_commit": "2026-08-24T10:38:06Z",
+                "last_commit": "2026-08-27T11:01:42Z",
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
-                "stars": 13544
+                "stars": 13547
               }
             },
             {
@@ -507,7 +507,7 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84211
+                "stars": 84222
               }
             }
           ],
@@ -520,9 +520,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:23:17.307Z",
-    "original_repository": "fukuball/Awesome-Laravel-Education",
-    "original_repository_id": 48367113,
+    "last_updated": "2026-08-27T11:28:30.898Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 48367113,
+      "language": "PHP",
+      "last_commit": "2022-09-03T03:48:45Z",
+      "owner": "fukuball",
+      "repo": "Awesome-Laravel-Education",
+      "stars": 398
+    },
     "original_repository_sha": "9b28df837ef1d72533a3c2e7aad0e8b40bfa907b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Laravel-Education",
     "enhanced_repository_description": null,
