@@ -16,7 +16,8 @@
             "owner": "fukuball",
             "repo": "Awesome-Laravel-Education",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T20:21:30.446Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "fukuball",
             "repo": "Awesome-Laravel-Education",
             "stars": 398
-          }
+          },
+          "first_seen": "2026-08-28T20:21:30.446Z"
         }
       ],
       "title": "Translations"
@@ -54,7 +56,8 @@
                 "owner": "fukuball",
                 "repo": "ec2-laravel-evn-installer",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             }
           ],
           "description": null,
@@ -75,8 +78,9 @@
                 "last_commit": "2026-07-13T19:44:57Z",
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32669
-              }
+                "stars": 32670
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             },
             {
               "node_type": "item",
@@ -91,7 +95,8 @@
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
                 "stars": 13093
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             },
             {
               "node_type": "item",
@@ -106,7 +111,8 @@
                 "owner": "bestmomo",
                 "repo": "laravel5-3-example",
                 "stars": 219
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             }
           ],
           "description": null,
@@ -127,8 +133,9 @@
                 "last_commit": "2026-08-25T16:27:45Z",
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84884
-              }
+                "stars": 84888
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             },
             {
               "node_type": "item",
@@ -139,11 +146,12 @@
                 "archived": false,
                 "id": 7548986,
                 "language": "PHP",
-                "last_commit": "2026-08-27T14:28:11Z",
+                "last_commit": "2026-08-28T14:38:22Z",
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34885
-              }
+                "stars": 34889
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             },
             {
               "node_type": "item",
@@ -158,7 +166,8 @@
                 "owner": "laravel",
                 "repo": "homestead",
                 "stars": 3878
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             },
             {
               "node_type": "item",
@@ -169,11 +178,12 @@
                 "archived": false,
                 "id": 7546847,
                 "language": null,
-                "last_commit": "2026-08-27T14:52:35Z",
+                "last_commit": "2026-08-28T14:29:19Z",
                 "owner": "laravel",
                 "repo": "docs",
                 "stars": 3480
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             },
             {
               "node_type": "item",
@@ -188,7 +198,8 @@
                 "owner": "laravel",
                 "repo": "cashier-stripe",
                 "stars": 2543
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             },
             {
               "node_type": "item",
@@ -203,7 +214,8 @@
                 "owner": "laravel",
                 "repo": "envoy",
                 "stars": 1615
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             },
             {
               "node_type": "item",
@@ -218,7 +230,8 @@
                 "owner": "laravel",
                 "repo": "settler",
                 "stars": 1000
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "laravel",
                 "repo": "art",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             }
           ],
           "description": null,
@@ -251,11 +265,12 @@
                 "archived": false,
                 "id": 4344257,
                 "language": "PHP",
-                "last_commit": "2026-08-27T11:01:42Z",
+                "last_commit": "2026-08-28T16:15:11Z",
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
                 "stars": 13547
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             },
             {
               "node_type": "item",
@@ -270,7 +285,8 @@
                 "owner": "php-fig",
                 "repo": "fig-standards",
                 "stars": 12516
-              }
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             }
           ],
           "description": null,
@@ -297,7 +313,8 @@
                     "owner": "sergeche",
                     "repo": "emmet-sublime",
                     "stars": 5216
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -312,7 +329,8 @@
                     "owner": "SublimeCodeIntel",
                     "repo": "SublimeCodeIntel",
                     "stars": 5048
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -327,7 +345,8 @@
                     "owner": "spadgos",
                     "repo": "sublime-jsdocs",
                     "stars": 3078
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -342,7 +361,8 @@
                     "owner": "titoBouzout",
                     "repo": "SideBarEnhancements",
                     "stars": 2222
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -357,7 +377,8 @@
                     "owner": "SublimeLinter",
                     "repo": "SublimeLinter",
                     "stars": 2040
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -372,7 +393,8 @@
                     "owner": "facelessuser",
                     "repo": "BracketHighlighter",
                     "stars": 1773
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -387,7 +409,8 @@
                     "owner": "SublimeText",
                     "repo": "TrailingSpaces",
                     "stars": 890
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -402,7 +425,8 @@
                     "owner": "wbond",
                     "repo": "sublime_alignment",
                     "stars": 520
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -417,7 +441,8 @@
                     "owner": "Medalink",
                     "repo": "laravel-blade",
                     "stars": 415
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -432,7 +457,8 @@
                     "owner": "P233",
                     "repo": "Syntax-highlighting-for-Sass",
                     "stars": 281
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -447,7 +473,8 @@
                     "owner": "SublimeLinter",
                     "repo": "SublimeLinter-php",
                     "stars": 206
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 },
                 {
                   "node_type": "item",
@@ -462,7 +489,8 @@
                     "owner": "dev4dev",
                     "repo": "blade-snippets",
                     "stars": 115
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 }
               ]
             },
@@ -484,7 +512,8 @@
                     "owner": "Haehnchen",
                     "repo": "idea-php-laravel-plugin",
                     "stars": 569
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:21:30.446Z"
                 }
               ]
             }
@@ -507,8 +536,9 @@
                 "last_commit": "2024-07-29T14:21:23Z",
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84227
-              }
+                "stars": 84237
+              },
+              "first_seen": "2026-08-28T20:21:30.446Z"
             }
           ],
           "description": null,
@@ -520,7 +550,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:15:00.708Z",
+    "last_updated": "2026-08-28T20:21:30.446Z",
     "original_repository_info": {
       "archived": false,
       "id": 48367113,
