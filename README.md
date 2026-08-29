@@ -75,8 +75,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,670 | 🐛 85 | 📅 2026-07-13
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,093 | 🐛 88 | 📅 2024-07-03
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,671 | 🐛 85 | 📅 2026-07-13
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,094 | 🐛 88 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⭐ 219 | 🐛 4 | 🌐 JavaScript | 📅 2017-10-09 - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
@@ -255,8 +255,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,888 | 🐛 31 | 🌐 Blade | 📅 2026-08-25
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,889 | 🐛 95 | 🌐 PHP | 📅 2026-08-28
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,886 | 🐛 31 | 🌐 Blade | 📅 2026-08-25
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,887 | 🐛 95 | 🌐 PHP | 📅 2026-08-28
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
 * [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,480 | 🐛 18 | 📅 2026-08-28
 * [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,543 | 🐛 15 | 🌐 PHP | 📅 2026-08-27
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

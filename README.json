@@ -10,12 +10,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for learning about the Laravel PHP Framework",
+            "homepage": null,
             "id": 48367113,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-09-03T03:48:45Z",
+            "open_issues": 4,
             "owner": "fukuball",
             "repo": "Awesome-Laravel-Education",
-            "stars": 398
+            "stars": 398,
+            "topics": [
+              "education",
+              "laravel",
+              "laravel-documentation"
+            ]
           },
           "first_seen": "2026-08-28T20:21:30.446Z"
         },
@@ -26,12 +35,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of resources for learning about the Laravel PHP Framework",
+            "homepage": null,
             "id": 48367113,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2022-09-03T03:48:45Z",
+            "open_issues": 4,
             "owner": "fukuball",
             "repo": "Awesome-Laravel-Education",
-            "stars": 398
+            "stars": 398,
+            "topics": [
+              "education",
+              "laravel",
+              "laravel-documentation"
+            ]
           },
           "first_seen": "2026-08-28T20:21:30.446Z"
         }
@@ -50,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "在 EC2 上快速架好符合 Laravel 運行的環境",
+                "homepage": null,
                 "id": 44745880,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2016-02-26T14:55:45Z",
+                "open_issues": 1,
                 "owner": "fukuball",
                 "repo": "ec2-laravel-evn-installer",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             }
@@ -73,12 +96,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of amazingly awesome PHP libraries, resources and shiny things.",
+                "homepage": null,
                 "id": 14705691,
                 "language": null,
+                "license": "WTFPL",
                 "last_commit": "2026-07-13T19:44:57Z",
+                "open_issues": 85,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32670
+                "stars": 32671,
+                "topics": [
+                  "awesome",
+                  "awesome-lists",
+                  "php",
+                  "php-applications",
+                  "php-framework",
+                  "php-installation",
+                  "php-library"
+                ]
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             },
@@ -89,12 +125,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem",
+                "homepage": null,
                 "id": 22417801,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-03T15:59:36Z",
+                "open_issues": 88,
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13093
+                "stars": 13094,
+                "topics": [
+                  "awesome",
+                  "laravel",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             },
@@ -105,12 +150,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple laravel 5-3 example for tutorial",
+                "homepage": null,
                 "id": 66711181,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-10-09T11:08:29Z",
+                "open_issues": 4,
                 "owner": "bestmomo",
                 "repo": "laravel5-3-example",
-                "stars": 219
+                "stars": 219,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             }
@@ -128,12 +178,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation for your next big idea — freeing you to create without sweating the small things.",
+                "homepage": "https://laravel.com",
                 "id": 1863329,
                 "language": "Blade",
+                "license": null,
                 "last_commit": "2026-08-25T16:27:45Z",
+                "open_issues": 31,
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84888
+                "stars": 84886,
+                "topics": [
+                  "framework",
+                  "laravel",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             },
@@ -144,12 +203,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laravel is a web application framework with expressive, elegant syntax.",
+                "homepage": "https://laravel.com",
                 "id": 7548986,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:38:22Z",
+                "open_issues": 95,
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34889
+                "stars": 34887,
+                "topics": [
+                  "framework",
+                  "laravel",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             },
@@ -160,12 +228,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 18863040,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-11-06T17:51:02Z",
+                "open_issues": 20,
                 "owner": "laravel",
                 "repo": "homestead",
-                "stars": 3878
+                "stars": 3878,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             },
@@ -176,12 +249,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Laravel documentation.",
+                "homepage": "https://laravel.com/docs",
                 "id": 7546847,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-28T14:29:19Z",
+                "open_issues": 18,
                 "owner": "laravel",
                 "repo": "docs",
-                "stars": 3480
+                "stars": 3480,
+                "topics": [
+                  "docs",
+                  "laravel"
+                ]
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             },
@@ -192,12 +273,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laravel Cashier provides an expressive, fluent interface to Stripe's subscription billing services.",
+                "homepage": "https://laravel.com/docs/billing",
                 "id": 17388759,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-27T12:11:05Z",
+                "open_issues": 15,
                 "owner": "laravel",
                 "repo": "cashier-stripe",
-                "stars": 2543
+                "stars": 2543,
+                "topics": [
+                  "billing",
+                  "laravel",
+                  "stripe"
+                ]
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             },
@@ -208,12 +298,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elegant SSH tasks for PHP.",
+                "homepage": "https://laravel.com/docs/envoy",
                 "id": 16650131,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2026-08-20T12:51:23Z",
+                "open_issues": 2,
                 "owner": "laravel",
                 "repo": "envoy",
-                "stars": 1615
+                "stars": 1615,
+                "topics": [
+                  "laravel",
+                  "ssh"
+                ]
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             },
@@ -224,12 +322,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 19705298,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-05-13T17:25:59Z",
+                "open_issues": 3,
                 "owner": "laravel",
                 "repo": "settler",
-                "stars": 1000
+                "stars": 1000,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             },
@@ -240,12 +343,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Laravel logo and other artwork.",
+                "homepage": null,
                 "id": 4637900,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-03-28T13:56:31Z",
+                "open_issues": 0,
                 "owner": "laravel",
                 "repo": "art",
-                "stars": 194
+                "stars": 194,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             }
@@ -263,12 +371,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool to automatically fix PHP Coding Standards issues",
+                "homepage": "https://cs.symfony.com",
                 "id": 4344257,
                 "language": "PHP",
-                "last_commit": "2026-08-28T16:15:11Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:01:56Z",
+                "open_issues": 84,
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
-                "stars": 13547
+                "stars": 13547,
+                "topics": [
+                  "code-standards",
+                  "code-style",
+                  "php",
+                  "static-analysis"
+                ]
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             },
@@ -279,12 +397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Standards either proposed or approved by the Framework Interop Group",
+                "homepage": "http://www.php-fig.org/",
                 "id": 1053270,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-03T10:58:13Z",
+                "open_issues": 14,
                 "owner": "php-fig",
                 "repo": "fig-standards",
-                "stars": 12516
+                "stars": 12516,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             }
@@ -307,12 +430,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Emmet for Sublime Text",
+                    "homepage": "http://emmet.io",
                     "id": 5060433,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-06-28T20:25:51Z",
+                    "open_issues": 194,
                     "owner": "sergeche",
                     "repo": "emmet-sublime",
-                    "stars": 5216
+                    "stars": 5216,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -323,12 +451,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "💡 Full-featured code intelligence and smart autocomplete for Sublime Text",
+                    "homepage": "https://www.sublimecodeintel.com",
                     "id": 1824023,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-08-28T06:04:21Z",
+                    "open_issues": 346,
                     "owner": "SublimeCodeIntel",
                     "repo": "SublimeCodeIntel",
-                    "stars": 5048
+                    "stars": 5048,
+                    "topics": [
+                      "auto-complete",
+                      "autocomplete",
+                      "code-intel",
+                      "code-navigation",
+                      "codeintel",
+                      "intelli-sense",
+                      "intellisense",
+                      "snippets",
+                      "sublime-text"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -339,12 +482,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Simplifies writing DocBlock comments in Javascript, PHP, CoffeeScript, Actionscript, C & C++",
+                    "homepage": null,
                     "id": 2471557,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2018-05-14T11:03:10Z",
+                    "open_issues": 151,
                     "owner": "spadgos",
                     "repo": "sublime-jsdocs",
-                    "stars": 3078
+                    "stars": 3078,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -355,12 +503,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Side Bar Tools and Enhancements for Sublime Text. Files and folders.",
+                    "homepage": null,
                     "id": 2539060,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-07-17T20:30:33Z",
+                    "open_issues": 8,
                     "owner": "titoBouzout",
                     "repo": "SideBarEnhancements",
-                    "stars": 2222
+                    "stars": 2222,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -371,12 +524,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code linting framework for Sublime Text",
+                    "homepage": "https://www.sublimelinter.com/",
                     "id": 13782029,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-23T10:58:16Z",
+                    "open_issues": 19,
                     "owner": "SublimeLinter",
                     "repo": "SublimeLinter",
-                    "stars": 2040
+                    "stars": 2040,
+                    "topics": [
+                      "linter",
+                      "python",
+                      "sublime-text",
+                      "sublimelinter"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -387,12 +550,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bracket and tag highlighter for Sublime Text",
+                    "homepage": "https://facelessuser.github.io/BracketHighlighter/",
                     "id": 2401243,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-11-27T21:30:51Z",
+                    "open_issues": 12,
                     "owner": "facelessuser",
                     "repo": "BracketHighlighter",
-                    "stars": 1773
+                    "stars": 1773,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -403,12 +571,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Highlight trailing spaces and delete them in a flash.",
+                    "homepage": null,
                     "id": 2595004,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-06-24T20:48:51Z",
+                    "open_issues": 12,
                     "owner": "SublimeText",
                     "repo": "TrailingSpaces",
-                    "stars": 890
+                    "stars": 890,
+                    "topics": [
+                      "sublime-text",
+                      "sublime-text-package",
+                      "sublime-text-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -419,12 +596,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easy alignment of multiple selections and multi-line selections",
+                    "homepage": "http://wbond.net/sublime_packages/alignment",
                     "id": 1804950,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2022-10-18T21:37:59Z",
+                    "open_issues": 45,
                     "owner": "wbond",
                     "repo": "sublime_alignment",
-                    "stars": 520
+                    "stars": 520,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -435,12 +617,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This package adds syntax definitions for the Laravel Blade engine.",
+                    "homepage": "http://www.laravel.com",
                     "id": 3880988,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2024-06-13T17:44:41Z",
+                    "open_issues": 6,
                     "owner": "Medalink",
                     "repo": "laravel-blade",
-                    "stars": 415
+                    "stars": 415,
+                    "topics": [
+                      "blade-engine",
+                      "highlighter",
+                      "laravel",
+                      "laravel5",
+                      "php",
+                      "sublime-text"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -451,12 +645,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A Sublime Text 3 package for highlighting both Sass and SCSS syntax.",
+                    "homepage": null,
                     "id": 8517979,
                     "language": "CSS",
+                    "license": "MIT",
                     "last_commit": "2018-08-01T07:48:44Z",
+                    "open_issues": 25,
                     "owner": "P233",
                     "repo": "Syntax-highlighting-for-Sass",
-                    "stars": 281
+                    "stars": 281,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -467,12 +666,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SublimeLinter 3 plugin for PHP, using php -l.",
+                    "homepage": null,
                     "id": 15226177,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-04-10T10:42:09Z",
+                    "open_issues": 0,
                     "owner": "SublimeLinter",
                     "repo": "SublimeLinter-php",
-                    "stars": 206
+                    "stars": 206,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 },
@@ -483,12 +687,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Snippets for blade template engine",
+                    "homepage": null,
                     "id": 4800721,
                     "language": null,
+                    "license": null,
                     "last_commit": "2023-01-03T08:54:13Z",
+                    "open_issues": 0,
                     "owner": "dev4dev",
                     "repo": "blade-snippets",
-                    "stars": 115
+                    "stars": 115,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 }
@@ -506,12 +715,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Laravel Framework Plugin for PhpStorm / IntelliJ IDEA",
+                    "homepage": null,
                     "id": 22961033,
                     "language": "Java",
+                    "license": "MIT",
                     "last_commit": "2021-12-13T17:32:53Z",
+                    "open_issues": 110,
                     "owner": "Haehnchen",
                     "repo": "idea-php-laravel-plugin",
-                    "stars": 569
+                    "stars": 569,
+                    "topics": [
+                      "blade",
+                      "intellij",
+                      "intellij-plugin",
+                      "java",
+                      "jetbrains",
+                      "laravel",
+                      "php",
+                      "phpstorm",
+                      "phpstorm-plugin",
+                      "symfony"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
                 }
@@ -531,12 +756,32 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": ":octocat: A curated awesome list of lists of interview questions. Feel free to contribute! :mortar_board: ",
+                "homepage": "https://doppler.com",
                 "id": 47018239,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-07-29T14:21:23Z",
+                "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84237
+                "stars": 84242,
+                "topics": [
+                  "android-interview-questions",
+                  "angularjs-interview-questions",
+                  "awesome",
+                  "awesome-list",
+                  "awesomeness",
+                  "interview-practice",
+                  "interview-questions",
+                  "interviewing",
+                  "javascript",
+                  "javascript-interview-questions",
+                  "list",
+                  "python-interview-questions",
+                  "rails-interview",
+                  "ruby"
+                ]
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
             }
@@ -550,15 +795,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:21:30.446Z",
+    "last_updated": "2026-08-29T04:47:29.343Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources for learning about the Laravel PHP Framework",
+      "homepage": null,
       "id": 48367113,
       "language": "PHP",
+      "license": "MIT",
       "last_commit": "2022-09-03T03:48:45Z",
+      "open_issues": 4,
       "owner": "fukuball",
       "repo": "Awesome-Laravel-Education",
-      "stars": 398
+      "stars": 398,
+      "topics": [
+        "education",
+        "laravel",
+        "laravel-documentation"
+      ]
     },
     "original_repository_sha": "9b28df837ef1d72533a3c2e7aad0e8b40bfa907b",
     "enhanced_repository": "enhansome/enhansome-Awesome-Laravel-Education",
