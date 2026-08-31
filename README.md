@@ -255,11 +255,11 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,894 | 🐛 32 | 🌐 Blade | 📅 2026-08-25
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,888 | 🐛 99 | 🌐 PHP | 📅 2026-08-28
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,910 | 🐛 31 | 🌐 Blade | 📅 2026-08-25
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,891 | 🐛 95 | 🌐 PHP | 📅 2026-08-31
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,481 | 🐛 18 | 📅 2026-08-28
-* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,543 | 🐛 15 | 🌐 PHP | 📅 2026-08-27
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,481 | 🐛 18 | 📅 2026-08-31
+* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,542 | 🐛 15 | 🌐 PHP | 📅 2026-08-27
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,615 | 🐛 2 | 🌐 PHP | 📅 2026-08-20
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 1,000 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
 * [Laravel Art](https://github.com/laravel/art) ⭐ 194 | 🐛 0 | 📅 2024-03-28
@@ -268,8 +268,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,547 | 🐛 87 | 🌐 PHP | 📅 2026-08-30
-* [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,516 | 🐛 14 | 📅 2026-07-03
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,547 | 🐛 82 | 🌐 PHP | 📅 2026-08-31
+* [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,515 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
 
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
