@@ -105,7 +105,7 @@
                 "open_issues": 85,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32675,
+                "stars": 32674,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -131,10 +131,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-07-03T15:59:36Z",
-                "open_issues": 88,
+                "open_issues": 87,
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13095,
+                "stars": 13096,
                 "topics": [
                   "awesome",
                   "laravel",
@@ -187,7 +187,7 @@
                 "open_issues": 31,
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84910,
+                "stars": 84913,
                 "topics": [
                   "framework",
                   "laravel",
@@ -208,8 +208,8 @@
                 "id": 7548986,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-31T15:37:40Z",
-                "open_issues": 95,
+                "last_commit": "2026-09-01T13:26:27Z",
+                "open_issues": 97,
                 "owner": "laravel",
                 "repo": "framework",
                 "stars": 34891,
@@ -254,11 +254,11 @@
                 "id": 7546847,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-08-31T13:48:12Z",
+                "last_commit": "2026-09-01T13:23:37Z",
                 "open_issues": 18,
                 "owner": "laravel",
                 "repo": "docs",
-                "stars": 3481,
+                "stars": 3482,
                 "topics": [
                   "docs",
                   "laravel"
@@ -278,7 +278,7 @@
                 "id": 17388759,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-08-27T12:11:05Z",
+                "last_commit": "2026-09-01T13:29:41Z",
                 "open_issues": 15,
                 "owner": "laravel",
                 "repo": "cashier-stripe",
@@ -380,7 +380,7 @@
                 "open_issues": 82,
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
-                "stars": 13547,
+                "stars": 13548,
                 "topics": [
                   "code-standards",
                   "code-style",
@@ -439,7 +439,7 @@
                     "open_issues": 194,
                     "owner": "sergeche",
                     "repo": "emmet-sublime",
-                    "stars": 5216,
+                    "stars": 5215,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
@@ -460,7 +460,7 @@
                     "open_issues": 346,
                     "owner": "SublimeCodeIntel",
                     "repo": "SublimeCodeIntel",
-                    "stars": 5047,
+                    "stars": 5046,
                     "topics": [
                       "auto-complete",
                       "autocomplete",
@@ -491,7 +491,7 @@
                     "open_issues": 151,
                     "owner": "spadgos",
                     "repo": "sublime-jsdocs",
-                    "stars": 3078,
+                    "stars": 3077,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
@@ -765,7 +765,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84296,
+                "stars": 84311,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:21:47.369Z",
+    "last_updated": "2026-09-01T13:40:43.758Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about the Laravel PHP Framework",
