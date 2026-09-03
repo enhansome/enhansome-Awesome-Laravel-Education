@@ -105,7 +105,7 @@
                 "open_issues": 85,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32675,
+                "stars": 32676,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -131,10 +131,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2024-07-03T15:59:36Z",
-                "open_issues": 87,
+                "open_issues": 88,
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13097,
+                "stars": 13096,
                 "topics": [
                   "awesome",
                   "laravel",
@@ -149,7 +149,7 @@
               "description": "A good example of how to use Laravel 5.3 to build an web application.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Simple laravel 5-3 example for tutorial",
                 "homepage": null,
                 "id": 66711181,
@@ -187,7 +187,7 @@
                 "open_issues": 31,
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 84921,
+                "stars": 84925,
                 "topics": [
                   "framework",
                   "laravel",
@@ -208,11 +208,11 @@
                 "id": 7548986,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-02T07:04:27Z",
-                "open_issues": 102,
+                "last_commit": "2026-09-02T18:28:07Z",
+                "open_issues": 98,
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34890,
+                "stars": 34892,
                 "topics": [
                   "framework",
                   "laravel",
@@ -254,11 +254,11 @@
                 "id": 7546847,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-02T08:01:09Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-02T13:35:35Z",
+                "open_issues": 18,
                 "owner": "laravel",
                 "repo": "docs",
-                "stars": 3483,
+                "stars": 3482,
                 "topics": [
                   "docs",
                   "laravel"
@@ -282,7 +282,7 @@
                 "open_issues": 15,
                 "owner": "laravel",
                 "repo": "cashier-stripe",
-                "stars": 2542,
+                "stars": 2543,
                 "topics": [
                   "billing",
                   "laravel",
@@ -512,7 +512,7 @@
                     "open_issues": 8,
                     "owner": "titoBouzout",
                     "repo": "SideBarEnhancements",
-                    "stars": 2221,
+                    "stars": 2222,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
@@ -765,7 +765,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84322,
+                "stars": 84337,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:57:15.030Z",
+    "last_updated": "2026-09-03T12:59:43.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about the Laravel PHP Framework",
