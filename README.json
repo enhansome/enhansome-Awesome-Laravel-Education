@@ -105,7 +105,7 @@
                 "open_issues": 85,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32676,
+                "stars": 32677,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -208,11 +208,11 @@
                 "id": 7548986,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-04T14:47:35Z",
-                "open_issues": 101,
+                "last_commit": "2026-09-05T16:03:00Z",
+                "open_issues": 108,
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34897,
+                "stars": 34900,
                 "topics": [
                   "framework",
                   "laravel",
@@ -258,7 +258,7 @@
                 "open_issues": 18,
                 "owner": "laravel",
                 "repo": "docs",
-                "stars": 3482,
+                "stars": 3483,
                 "topics": [
                   "docs",
                   "laravel"
@@ -376,8 +376,8 @@
                 "id": 4344257,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-04T20:50:37Z",
-                "open_issues": 83,
+                "last_commit": "2026-09-05T22:36:49Z",
+                "open_issues": 84,
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
                 "stars": 13547,
@@ -765,7 +765,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84351,
+                "stars": 84375,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -795,7 +795,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:02:18.148Z",
+    "last_updated": "2026-09-06T12:18:57.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about the Laravel PHP Framework",
