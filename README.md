@@ -75,8 +75,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,701 | 🐛 92 | 📅 2026-07-13
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,104 | 🐛 90 | 📅 2024-07-03
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,700 | 🐛 92 | 📅 2026-07-13
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,103 | 🐛 90 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⚠️ Archived - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
@@ -255,10 +255,10 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,966 | 🐛 31 | 🌐 Blade | 📅 2026-08-25
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,920 | 🐛 100 | 🌐 PHP | 📅 2026-09-17
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 84,972 | 🐛 31 | 🌐 Blade | 📅 2026-08-25
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,922 | 🐛 98 | 🌐 PHP | 📅 2026-09-18
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,489 | 🐛 18 | 📅 2026-09-16
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,488 | 🐛 20 | 📅 2026-09-17
 * [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,546 | 🐛 15 | 🌐 PHP | 📅 2026-09-01
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,615 | 🐛 2 | 🌐 PHP | 📅 2026-09-11
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 999 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
@@ -268,7 +268,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,550 | 🐛 87 | 🌐 PHP | 📅 2026-09-14
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,552 | 🐛 86 | 🌐 PHP | 📅 2026-09-18
 * [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,515 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
