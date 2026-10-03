@@ -75,8 +75,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,722 | 🐛 94 | 📅 2026-09-27
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,111 | 🐛 93 | 📅 2024-07-03
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,723 | 🐛 94 | 📅 2026-09-27
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,110 | 🐛 93 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⚠️ Archived - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
@@ -255,8 +255,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,045 | 🐛 31 | 🌐 Blade | 📅 2026-09-30
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,949 | 🐛 96 | 🌐 PHP | 📅 2026-10-02
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,049 | 🐛 31 | 🌐 Blade | 📅 2026-09-30
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,949 | 🐛 108 | 🌐 PHP | 📅 2026-10-02
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
 * [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,499 | 🐛 19 | 📅 2026-10-03
 * [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,549 | 🐛 15 | 🌐 PHP | 📅 2026-09-01
@@ -268,7 +268,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,557 | 🐛 96 | 🌐 PHP | 📅 2026-10-02
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,559 | 🐛 94 | 🌐 PHP | 📅 2026-10-03
 * [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,516 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
