@@ -1,62 +1,6 @@
 {
   "items": [
     {
-      "description": "Please select the curated list below to begin your learning of the Laravel PHP Framework!",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Chinese",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources for learning about the Laravel PHP Framework",
-            "homepage": null,
-            "id": 48367113,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2022-09-03T03:48:45Z",
-            "open_issues": 4,
-            "owner": "fukuball",
-            "repo": "Awesome-Laravel-Education",
-            "stars": 398,
-            "topics": [
-              "education",
-              "laravel",
-              "laravel-documentation"
-            ]
-          },
-          "first_seen": "2026-08-28T20:21:30.446Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Portuguese",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A curated list of resources for learning about the Laravel PHP Framework",
-            "homepage": null,
-            "id": 48367113,
-            "language": "PHP",
-            "license": "MIT",
-            "last_commit": "2022-09-03T03:48:45Z",
-            "open_issues": 4,
-            "owner": "fukuball",
-            "repo": "Awesome-Laravel-Education",
-            "stars": 398,
-            "topics": [
-              "education",
-              "laravel",
-              "laravel-documentation"
-            ]
-          },
-          "first_seen": "2026-08-28T20:21:30.446Z"
-        }
-      ],
-      "title": "Translations"
-    },
-    {
       "description": null,
       "items": [
         {
@@ -64,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Setup Laravel excutable enviroment on AWS EC2 quickly",
-              "description": null,
+              "description": "fukuball/ec2-laravel-evn-installer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -92,7 +36,7 @@
             {
               "node_type": "item",
               "title": "Awesome PHP",
-              "description": null,
+              "description": "ziadoz/awesome-php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -105,7 +49,7 @@
                 "open_issues": 94,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32721,
+                "stars": 32722,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -121,7 +65,7 @@
             {
               "node_type": "item",
               "title": "Awesome Laravel",
-              "description": null,
+              "description": "chiraggude/awesome-laravel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -134,7 +78,7 @@
                 "open_issues": 93,
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13110,
+                "stars": 13111,
                 "topics": [
                   "awesome",
                   "laravel",
@@ -174,7 +118,7 @@
             {
               "node_type": "item",
               "title": "Laravel Application",
-              "description": null,
+              "description": "laravel/laravel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -199,7 +143,7 @@
             {
               "node_type": "item",
               "title": "Laravel Framework",
-              "description": null,
+              "description": "laravel/framework",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -208,11 +152,11 @@
                 "id": 7548986,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:51:49Z",
+                "last_commit": "2026-10-02T20:24:51Z",
                 "open_issues": 96,
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34948,
+                "stars": 34949,
                 "topics": [
                   "framework",
                   "laravel",
@@ -224,7 +168,7 @@
             {
               "node_type": "item",
               "title": "Laravel Homestead",
-              "description": null,
+              "description": "laravel/homestead",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -245,7 +189,7 @@
             {
               "node_type": "item",
               "title": "Laravel Documentation",
-              "description": null,
+              "description": "laravel/docs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -254,8 +198,8 @@
                 "id": 7546847,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-02T12:47:22Z",
-                "open_issues": 20,
+                "last_commit": "2026-10-03T03:28:28Z",
+                "open_issues": 19,
                 "owner": "laravel",
                 "repo": "docs",
                 "stars": 3499,
@@ -269,7 +213,7 @@
             {
               "node_type": "item",
               "title": "Laravel Cashier",
-              "description": null,
+              "description": "laravel/cashier-stripe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -294,7 +238,7 @@
             {
               "node_type": "item",
               "title": "Laravel Envoy",
-              "description": null,
+              "description": "laravel/envoy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -318,7 +262,7 @@
             {
               "node_type": "item",
               "title": "Laravel Homestead Build Scripts",
-              "description": null,
+              "description": "laravel/settler",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -331,7 +275,7 @@
                 "open_issues": 3,
                 "owner": "laravel",
                 "repo": "settler",
-                "stars": 999,
+                "stars": 998,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:21:30.446Z"
@@ -339,7 +283,7 @@
             {
               "node_type": "item",
               "title": "Laravel Art",
-              "description": null,
+              "description": "laravel/art",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -367,7 +311,7 @@
             {
               "node_type": "item",
               "title": "Code Style Fixer",
-              "description": null,
+              "description": "PHP-CS-Fixer/PHP-CS-Fixer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -376,8 +320,8 @@
                 "id": 4344257,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-02T10:34:55Z",
-                "open_issues": 94,
+                "last_commit": "2026-10-02T21:56:40Z",
+                "open_issues": 96,
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
                 "stars": 13557,
@@ -393,7 +337,7 @@
             {
               "node_type": "item",
               "title": "PHP Framework Interoperability Group",
-              "description": null,
+              "description": "php-fig/fig-standards",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -529,7 +473,7 @@
                     "id": 13782029,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T07:21:49Z",
+                    "last_commit": "2026-10-02T21:48:48Z",
                     "open_issues": 21,
                     "owner": "SublimeLinter",
                     "repo": "SublimeLinter",
@@ -580,7 +524,7 @@
                     "open_issues": 12,
                     "owner": "SublimeText",
                     "repo": "TrailingSpaces",
-                    "stars": 890,
+                    "stars": 889,
                     "topics": [
                       "sublime-text",
                       "sublime-text-package",
@@ -711,7 +655,7 @@
                 {
                   "node_type": "item",
                   "title": "Laravel Plugin for PhpStorm",
-                  "description": null,
+                  "description": "Haehnchen/idea-php-laravel-plugin",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -752,7 +696,7 @@
             {
               "node_type": "item",
               "title": "Awesome PHP Interview Questions",
-              "description": null,
+              "description": "DopplerHQ/awesome-interview-questions",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -765,7 +709,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84759,
+                "stars": 84771,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -795,7 +739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:58:29.088Z",
+    "last_updated": "2026-10-03T04:30:35.475Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about the Laravel PHP Framework",
