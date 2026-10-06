@@ -255,10 +255,10 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,056 | 🐛 31 | 🌐 Blade | 📅 2026-09-30
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,948 | 🐛 100 | 🌐 PHP | 📅 2026-10-06
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,055 | 🐛 31 | 🌐 Blade | 📅 2026-10-06
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,947 | 🐛 98 | 🌐 PHP | 📅 2026-10-06
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,499 | 🐛 20 | 📅 2026-10-06
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,499 | 🐛 18 | 📅 2026-10-06
 * [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,549 | 🐛 15 | 🌐 PHP | 📅 2026-09-01
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,615 | 🐛 2 | 🌐 PHP | 📅 2026-09-11
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 998 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
