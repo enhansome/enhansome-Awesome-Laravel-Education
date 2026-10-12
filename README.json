@@ -49,7 +49,7 @@
                 "open_issues": 95,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32737,
+                "stars": 32739,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -78,7 +78,7 @@
                 "open_issues": 92,
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13108,
+                "stars": 13109,
                 "topics": [
                   "awesome",
                   "laravel",
@@ -131,7 +131,7 @@
                 "open_issues": 31,
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 85061,
+                "stars": 85067,
                 "topics": [
                   "framework",
                   "laravel",
@@ -152,11 +152,11 @@
                 "id": 7548986,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-10T18:30:02Z",
-                "open_issues": 103,
+                "last_commit": "2026-10-12T13:32:57Z",
+                "open_issues": 98,
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34958,
+                "stars": 34961,
                 "topics": [
                   "framework",
                   "laravel",
@@ -198,11 +198,11 @@
                 "id": 7546847,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-09T16:12:00Z",
+                "last_commit": "2026-10-12T13:24:46Z",
                 "open_issues": 18,
                 "owner": "laravel",
                 "repo": "docs",
-                "stars": 3499,
+                "stars": 3500,
                 "topics": [
                   "docs",
                   "laravel"
@@ -222,11 +222,11 @@
                 "id": 17388759,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-09-01T13:29:41Z",
+                "last_commit": "2026-10-12T13:23:33Z",
                 "open_issues": 15,
                 "owner": "laravel",
                 "repo": "cashier-stripe",
-                "stars": 2548,
+                "stars": 2547,
                 "topics": [
                   "billing",
                   "laravel",
@@ -324,7 +324,7 @@
                 "open_issues": 96,
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
-                "stars": 13562,
+                "stars": 13565,
                 "topics": [
                   "code-standards",
                   "code-style",
@@ -709,7 +709,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 84907,
+                "stars": 84929,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -739,7 +739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T15:03:36.542Z",
+    "last_updated": "2026-10-12T18:11:40.467Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about the Laravel PHP Framework",
