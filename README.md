@@ -75,7 +75,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,755 | 🐛 95 | 📅 2026-09-27
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,759 | 🐛 97 | 📅 2026-09-27
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,111 | 🐛 95 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⚠️ Archived - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
@@ -255,8 +255,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,181 | 🐛 31 | 🌐 Blade | 📅 2026-10-14
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,963 | 🐛 102 | 🌐 PHP | 📅 2026-10-17
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,255 | 🐛 31 | 🌐 Blade | 📅 2026-10-14
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,966 | 🐛 97 | 🌐 PHP | 📅 2026-10-19
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
 * [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,500 | 🐛 16 | 📅 2026-10-16
 * [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,546 | 🐛 15 | 🌐 PHP | 📅 2026-10-17
@@ -268,8 +268,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,565 | 🐛 102 | 🌐 PHP | 📅 2026-10-09
-* [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,564 | 🐛 103 | 🌐 PHP | 📅 2026-10-09
+* [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
 
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
