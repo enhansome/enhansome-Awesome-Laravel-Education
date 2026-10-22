@@ -75,8 +75,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,757 | 🐛 98 | 📅 2026-09-27
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,113 | 🐛 96 | 📅 2024-07-03
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,759 | 🐛 97 | 📅 2026-09-27
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,113 | 🐛 95 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⚠️ Archived - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
@@ -255,11 +255,11 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,233 | 🐛 31 | 🌐 Blade | 📅 2026-10-14
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,969 | 🐛 92 | 🌐 PHP | 📅 2026-10-21
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,241 | 🐛 31 | 🌐 Blade | 📅 2026-10-14
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,974 | 🐛 102 | 🌐 PHP | 📅 2026-10-22
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,502 | 🐛 17 | 📅 2026-10-20
-* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,546 | 🐛 15 | 🌐 PHP | 📅 2026-10-20
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,502 | 🐛 17 | 📅 2026-10-21
+* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,547 | 🐛 15 | 🌐 PHP | 📅 2026-10-20
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,614 | 🐛 2 | 🌐 PHP | 📅 2026-10-16
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 998 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
 * [Laravel Art](https://github.com/laravel/art) ⭐ 194 | 🐛 0 | 📅 2024-03-28
@@ -268,7 +268,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,565 | 🐛 105 | 🌐 PHP | 📅 2026-10-09
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,566 | 🐛 107 | 🌐 PHP | 📅 2026-10-09
 * [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
@@ -280,12 +280,12 @@ These guys below contributed with content, translations and more. What are you w
 ## Develop Tools
 
 * [Sublime Text](http://www.sublimetext.com/)
-  * [Emmet](https://github.com/sergeche/emmet-sublime) ⭐ 5,211 | 🐛 194 | 🌐 JavaScript | 📅 2023-06-28 - Improves HTML & CSS workflow
-  * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) ⭐ 5,044 | 🐛 346 | 🌐 Python | 📅 2023-08-28 - Full-featured code intelligence and smart autocomplete engine
+  * [Emmet](https://github.com/sergeche/emmet-sublime) ⭐ 5,209 | 🐛 194 | 🌐 JavaScript | 📅 2023-06-28 - Improves HTML & CSS workflow
+  * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) ⭐ 5,043 | 🐛 346 | 🌐 Python | 📅 2023-08-28 - Full-featured code intelligence and smart autocomplete engine
   * [DocBlockr](https://github.com/spadgos/sublime-jsdocs) ⭐ 3,078 | 🐛 151 | 🌐 Python | 📅 2018-05-14 - Simplifies writing DocBlock comments
   * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,222 | 🐛 8 | 🌐 Python | 📅 2026-07-17 - Enhancements to Sublime Text sidebar
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) ⭐ 2,040 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP
-  * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) ⭐ 1,773 | 🐛 12 | 🌐 Python | 📅 2026-09-17 - Bracket and tag highlighter
+  * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) ⭐ 1,772 | 🐛 12 | 🌐 Python | 📅 2026-09-17 - Bracket and tag highlighter
   * [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) ⭐ 889 | 🐛 12 | 🌐 Python | 📅 2023-06-24 - Highlight trailing spaces and delete them
   * [Alignment](https://github.com/wbond/sublime_alignment) ⭐ 519 | 🐛 45 | 🌐 Python | 📅 2022-10-18 - Easy alignment of multiple selections and multi-line selections
   * [Laravel Blade Highlighter](https://github.com/Medalink/laravel-blade) ⭐ 415 | 🐛 6 | 🌐 CSS | 📅 2024-06-13 - Adds syntax definitions for the Laravel 5 Blade engine
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
