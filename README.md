@@ -255,10 +255,10 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,221 | 🐛 31 | 🌐 Blade | 📅 2026-10-30
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,991 | 🐛 99 | 🌐 PHP | 📅 2026-10-30
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,222 | 🐛 31 | 🌐 Blade | 📅 2026-10-30
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,990 | 🐛 103 | 🌐 PHP | 📅 2026-10-30
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,509 | 🐛 17 | 📅 2026-10-27
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,510 | 🐛 18 | 📅 2026-10-27
 * [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,549 | 🐛 16 | 🌐 PHP | 📅 2026-10-20
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,612 | 🐛 2 | 🌐 PHP | 📅 2026-10-16
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 997 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
@@ -268,7 +268,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,569 | 🐛 118 | 🌐 PHP | 📅 2026-10-30
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,569 | 🐛 117 | 🌐 PHP | 📅 2026-11-01
 * [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._

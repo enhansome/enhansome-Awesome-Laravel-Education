@@ -131,7 +131,7 @@
                 "open_issues": 31,
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 85221,
+                "stars": 85222,
                 "topics": [
                   "framework",
                   "laravel",
@@ -153,10 +153,10 @@
                 "language": "PHP",
                 "license": "MIT",
                 "last_commit": "2026-10-30T21:25:00Z",
-                "open_issues": 99,
+                "open_issues": 103,
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34991,
+                "stars": 34990,
                 "topics": [
                   "framework",
                   "laravel",
@@ -199,10 +199,10 @@
                 "language": null,
                 "license": "MIT",
                 "last_commit": "2026-10-27T13:28:25Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "laravel",
                 "repo": "docs",
-                "stars": 3509,
+                "stars": 3510,
                 "topics": [
                   "docs",
                   "laravel"
@@ -320,8 +320,8 @@
                 "id": 4344257,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-10-30T16:35:11Z",
-                "open_issues": 118,
+                "last_commit": "2026-11-01T09:10:59Z",
+                "open_issues": 117,
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
                 "stars": 13569,
@@ -709,7 +709,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 85302,
+                "stars": 85311,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -739,7 +739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T14:43:41.967Z",
+    "last_updated": "2026-11-01T15:26:37.465Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about the Laravel PHP Framework",
