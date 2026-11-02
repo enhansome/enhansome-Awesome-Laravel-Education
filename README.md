@@ -75,8 +75,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,779 | 🐛 80 | 📅 2026-10-30
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,130 | 🐛 97 | 📅 2024-07-03
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,783 | 🐛 80 | 📅 2026-10-30
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,131 | 🐛 97 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⚠️ Archived - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
@@ -255,10 +255,10 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,222 | 🐛 31 | 🌐 Blade | 📅 2026-10-30
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,990 | 🐛 103 | 🌐 PHP | 📅 2026-10-30
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,220 | 🐛 31 | 🌐 Blade | 📅 2026-10-30
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,986 | 🐛 91 | 🌐 PHP | 📅 2026-11-02
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,510 | 🐛 18 | 📅 2026-10-27
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,512 | 🐛 17 | 📅 2026-11-02
 * [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,549 | 🐛 16 | 🌐 PHP | 📅 2026-10-20
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,612 | 🐛 2 | 🌐 PHP | 📅 2026-10-16
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 997 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
@@ -268,8 +268,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,569 | 🐛 117 | 🌐 PHP | 📅 2026-11-01
-* [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,513 | 🐛 14 | 📅 2026-07-03
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,571 | 🐛 116 | 🌐 PHP | 📅 2026-11-01
+* [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,512 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
 
@@ -281,7 +281,7 @@ These guys below contributed with content, translations and more. What are you w
 
 * [Sublime Text](http://www.sublimetext.com/)
   * [Emmet](https://github.com/sergeche/emmet-sublime) ⭐ 5,210 | 🐛 194 | 🌐 JavaScript | 📅 2023-06-28 - Improves HTML & CSS workflow
-  * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) ⭐ 5,042 | 🐛 346 | 🌐 Python | 📅 2023-08-28 - Full-featured code intelligence and smart autocomplete engine
+  * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) ⭐ 5,041 | 🐛 346 | 🌐 Python | 📅 2023-08-28 - Full-featured code intelligence and smart autocomplete engine
   * [DocBlockr](https://github.com/spadgos/sublime-jsdocs) ⭐ 3,076 | 🐛 151 | 🌐 Python | 📅 2018-05-14 - Simplifies writing DocBlock comments
   * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,223 | 🐛 8 | 🌐 Python | 📅 2026-07-17 - Enhancements to Sublime Text sidebar
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) ⭐ 2,040 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
