@@ -75,8 +75,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,783 | 🐛 80 | 📅 2026-10-30
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,131 | 🐛 97 | 📅 2024-07-03
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,784 | 🐛 80 | 📅 2026-10-30
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,130 | 🐛 97 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⚠️ Archived - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
@@ -255,11 +255,11 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,220 | 🐛 31 | 🌐 Blade | 📅 2026-10-30
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,986 | 🐛 91 | 🌐 PHP | 📅 2026-11-02
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,218 | 🐛 31 | 🌐 Blade | 📅 2026-10-30
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,988 | 🐛 88 | 🌐 PHP | 📅 2026-11-03
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,512 | 🐛 17 | 📅 2026-11-02
-* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,549 | 🐛 16 | 🌐 PHP | 📅 2026-10-20
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,512 | 🐛 17 | 📅 2026-11-03
+* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,549 | 🐛 17 | 🌐 PHP | 📅 2026-10-20
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,612 | 🐛 2 | 🌐 PHP | 📅 2026-10-16
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 997 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
 * [Laravel Art](https://github.com/laravel/art) ⭐ 194 | 🐛 0 | 📅 2024-03-28
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
