@@ -75,8 +75,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,785 | 🐛 79 | 📅 2026-10-30
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,130 | 🐛 98 | 📅 2024-07-03
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,784 | 🐛 78 | 📅 2026-10-30
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,131 | 🐛 99 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⚠️ Archived - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
@@ -255,11 +255,11 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,215 | 🐛 31 | 🌐 Blade | 📅 2026-10-30
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,983 | 🐛 97 | 🌐 PHP | 📅 2026-11-04
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,235 | 🐛 31 | 🌐 Blade | 📅 2026-10-30
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,987 | 🐛 83 | 🌐 PHP | 📅 2026-11-05
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,513 | 🐛 21 | 📅 2026-11-03
-* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,549 | 🐛 17 | 🌐 PHP | 📅 2026-10-20
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,513 | 🐛 17 | 📅 2026-11-04
+* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,550 | 🐛 16 | 🌐 PHP | 📅 2026-11-04
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,612 | 🐛 2 | 🌐 PHP | 📅 2026-10-16
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 997 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
 * [Laravel Art](https://github.com/laravel/art) ⭐ 194 | 🐛 0 | 📅 2024-03-28
@@ -280,7 +280,7 @@ These guys below contributed with content, translations and more. What are you w
 ## Develop Tools
 
 * [Sublime Text](http://www.sublimetext.com/)
-  * [Emmet](https://github.com/sergeche/emmet-sublime) ⭐ 5,210 | 🐛 194 | 🌐 JavaScript | 📅 2023-06-28 - Improves HTML & CSS workflow
+  * [Emmet](https://github.com/sergeche/emmet-sublime) ⭐ 5,209 | 🐛 194 | 🌐 JavaScript | 📅 2023-06-28 - Improves HTML & CSS workflow
   * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) ⭐ 5,041 | 🐛 346 | 🌐 Python | 📅 2023-08-28 - Full-featured code intelligence and smart autocomplete engine
   * [DocBlockr](https://github.com/spadgos/sublime-jsdocs) ⭐ 3,076 | 🐛 151 | 🌐 Python | 📅 2018-05-14 - Simplifies writing DocBlock comments
   * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,223 | 🐛 8 | 🌐 Python | 📅 2026-07-17 - Enhancements to Sublime Text sidebar
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
