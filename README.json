@@ -49,7 +49,7 @@
                 "open_issues": 78,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32791,
+                "stars": 32792,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -78,7 +78,7 @@
                 "open_issues": 99,
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13136,
+                "stars": 13137,
                 "topics": [
                   "awesome",
                   "laravel",
@@ -131,7 +131,7 @@
                 "open_issues": 31,
                 "owner": "laravel",
                 "repo": "laravel",
-                "stars": 85394,
+                "stars": 85397,
                 "topics": [
                   "framework",
                   "laravel",
@@ -152,11 +152,11 @@
                 "id": 7548986,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-08T14:43:35Z",
-                "open_issues": 102,
+                "last_commit": "2026-11-10T15:56:58Z",
+                "open_issues": 89,
                 "owner": "laravel",
                 "repo": "framework",
-                "stars": 34995,
+                "stars": 34998,
                 "topics": [
                   "framework",
                   "laravel",
@@ -198,11 +198,11 @@
                 "id": 7546847,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-09T12:39:41Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-10T16:18:19Z",
+                "open_issues": 16,
                 "owner": "laravel",
                 "repo": "docs",
-                "stars": 3514,
+                "stars": 3515,
                 "topics": [
                   "docs",
                   "laravel"
@@ -222,11 +222,11 @@
                 "id": 17388759,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-07T13:48:34Z",
+                "last_commit": "2026-11-10T16:00:55Z",
                 "open_issues": 14,
                 "owner": "laravel",
                 "repo": "cashier-stripe",
-                "stars": 2550,
+                "stars": 2549,
                 "topics": [
                   "billing",
                   "laravel",
@@ -247,11 +247,11 @@
                 "id": 16650131,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-06T19:31:18Z",
+                "last_commit": "2026-11-10T16:03:25Z",
                 "open_issues": 2,
                 "owner": "laravel",
                 "repo": "envoy",
-                "stars": 1613,
+                "stars": 1614,
                 "topics": [
                   "laravel",
                   "ssh"
@@ -320,11 +320,11 @@
                 "id": 4344257,
                 "language": "PHP",
                 "license": "MIT",
-                "last_commit": "2026-11-09T14:32:47Z",
-                "open_issues": 115,
+                "last_commit": "2026-11-10T00:13:52Z",
+                "open_issues": 116,
                 "owner": "PHP-CS-Fixer",
                 "repo": "PHP-CS-Fixer",
-                "stars": 13572,
+                "stars": 13573,
                 "topics": [
                   "code-standards",
                   "code-style",
@@ -404,7 +404,7 @@
                     "open_issues": 346,
                     "owner": "SublimeCodeIntel",
                     "repo": "SublimeCodeIntel",
-                    "stars": 5041,
+                    "stars": 5040,
                     "topics": [
                       "auto-complete",
                       "autocomplete",
@@ -456,7 +456,7 @@
                     "open_issues": 8,
                     "owner": "titoBouzout",
                     "repo": "SideBarEnhancements",
-                    "stars": 2223,
+                    "stars": 2224,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
@@ -503,7 +503,7 @@
                     "open_issues": 12,
                     "owner": "facelessuser",
                     "repo": "BracketHighlighter",
-                    "stars": 1773,
+                    "stars": 1772,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:21:30.446Z"
@@ -570,7 +570,7 @@
                     "open_issues": 6,
                     "owner": "Medalink",
                     "repo": "laravel-blade",
-                    "stars": 415,
+                    "stars": 416,
                     "topics": [
                       "blade-engine",
                       "highlighter",
@@ -668,7 +668,7 @@
                     "open_issues": 110,
                     "owner": "Haehnchen",
                     "repo": "idea-php-laravel-plugin",
-                    "stars": 567,
+                    "stars": 568,
                     "topics": [
                       "blade",
                       "intellij",
@@ -709,7 +709,7 @@
                 "open_issues": 48,
                 "owner": "DopplerHQ",
                 "repo": "awesome-interview-questions",
-                "stars": 85473,
+                "stars": 85490,
                 "topics": [
                   "android-interview-questions",
                   "angularjs-interview-questions",
@@ -739,7 +739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T19:05:45.776Z",
+    "last_updated": "2026-11-10T16:35:45.719Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources for learning about the Laravel PHP Framework",
@@ -751,7 +751,7 @@
       "open_issues": 4,
       "owner": "fukuball",
       "repo": "Awesome-Laravel-Education",
-      "stars": 398,
+      "stars": 399,
       "topics": [
         "education",
         "laravel",
