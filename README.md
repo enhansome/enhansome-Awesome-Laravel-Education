@@ -75,8 +75,8 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,801 | 🐛 83 | 📅 2026-10-30
-* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,141 | 🐛 101 | 📅 2024-07-03
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,807 | 🐛 84 | 📅 2026-10-30
+* [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,143 | 🐛 101 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⚠️ Archived - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
@@ -255,11 +255,11 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,400 | 🐛 31 | 🌐 Blade | 📅 2026-11-13
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 34,999 | 🐛 92 | 🌐 PHP | 📅 2026-11-15
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,347 | 🐛 36 | 🌐 Blade | 📅 2026-11-13
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 35,000 | 🐛 95 | 🌐 PHP | 📅 2026-11-16
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,516 | 🐛 15 | 📅 2026-11-15
-* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,548 | 🐛 13 | 🌐 PHP | 📅 2026-11-13
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,517 | 🐛 18 | 📅 2026-11-16
+* [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,549 | 🐛 13 | 🌐 PHP | 📅 2026-11-13
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,614 | 🐛 2 | 🌐 PHP | 📅 2026-11-10
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 997 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
 * [Laravel Art](https://github.com/laravel/art) ⭐ 194 | 🐛 0 | 📅 2024-03-28
@@ -268,7 +268,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,578 | 🐛 117 | 🌐 PHP | 📅 2026-11-15
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,579 | 🐛 116 | 🌐 PHP | 📅 2026-11-15
 * [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
@@ -283,7 +283,7 @@ These guys below contributed with content, translations and more. What are you w
   * [Emmet](https://github.com/sergeche/emmet-sublime) ⭐ 5,208 | 🐛 194 | 🌐 JavaScript | 📅 2023-06-28 - Improves HTML & CSS workflow
   * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) ⭐ 5,040 | 🐛 346 | 🌐 Python | 📅 2023-08-28 - Full-featured code intelligence and smart autocomplete engine
   * [DocBlockr](https://github.com/spadgos/sublime-jsdocs) ⭐ 3,076 | 🐛 152 | 🌐 Python | 📅 2018-05-14 - Simplifies writing DocBlock comments
-  * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,224 | 🐛 8 | 🌐 Python | 📅 2026-07-17 - Enhancements to Sublime Text sidebar
+  * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,225 | 🐛 8 | 🌐 Python | 📅 2026-07-17 - Enhancements to Sublime Text sidebar
   * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) ⭐ 2,040 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP
   * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) ⭐ 1,772 | 🐛 12 | 🌐 Python | 📅 2026-09-17 - Bracket and tag highlighter
   * [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) ⭐ 888 | 🐛 12 | 🌐 Python | 📅 2023-06-24 - Highlight trailing spaces and delete them
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
