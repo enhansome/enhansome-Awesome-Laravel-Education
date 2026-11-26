@@ -75,7 +75,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Quick References
 
-* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,817 | 🐛 92 | 📅 2026-10-30
+* [Awesome PHP](https://github.com/ziadoz/awesome-php) ⭐ 32,817 | 🐛 93 | 📅 2026-10-30
 * [Awesome Laravel](https://github.com/chiraggude/awesome-laravel) ⭐ 13,140 | 🐛 103 | 📅 2024-07-03
 * [bestmomo/laravel5-3-example](https://github.com/bestmomo/laravel5-3-example) ⚠️ Archived - A good example of how to use Laravel 5.3 to build an web application.
 * [Laravel API](http://laravel.com/api/5.4/) #5.4
@@ -255,10 +255,10 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Open Source Laravel
 
-* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,432 | 🐛 31 | 🌐 Blade | 📅 2026-11-25
-* [Laravel Framework](https://github.com/laravel/framework) ⭐ 35,128 | 🐛 103 | 🌐 PHP | 📅 2026-11-25
+* [Laravel Application](https://github.com/laravel/laravel) ⭐ 85,462 | 🐛 31 | 🌐 Blade | 📅 2026-11-25
+* [Laravel Framework](https://github.com/laravel/framework) ⭐ 35,159 | 🐛 116 | 🌐 PHP | 📅 2026-11-26
 * [Laravel Homestead](https://github.com/laravel/homestead) ⚠️ Archived
-* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,516 | 🐛 16 | 📅 2026-11-25
+* [Laravel Documentation](https://github.com/laravel/docs) ⭐ 3,515 | 🐛 16 | 📅 2026-11-25
 * [Laravel Cashier](https://github.com/laravel/cashier) ⭐ 2,550 | 🐛 13 | 🌐 PHP | 📅 2026-11-17
 * [Laravel Envoy](https://github.com/laravel/envoy) ⭐ 1,612 | 🐛 2 | 🌐 PHP | 📅 2026-11-10
 * [Laravel Homestead Build Scripts](https://github.com/laravel/settler) ⭐ 996 | 🐛 3 | 🌐 Shell | 📅 2024-05-13
@@ -268,7 +268,7 @@ These guys below contributed with content, translations and more. What are you w
 
 ## Coding Standard
 
-* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,580 | 🐛 128 | 🌐 PHP | 📅 2026-11-24
+* [Code Style Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) ⭐ 13,583 | 🐛 127 | 🌐 PHP | 📅 2026-11-24
 * [PHP Framework Interoperability Group](https://github.com/php-fig/fig-standards) ⭐ 12,514 | 🐛 14 | 📅 2026-07-03
 * [PHP The Right Way](http://www.phptherightway.com/)
 * [PHP FIG](http://www.php-fig.org/)
@@ -281,10 +281,10 @@ These guys below contributed with content, translations and more. What are you w
 
 * [Sublime Text](http://www.sublimetext.com/)
   * [Emmet](https://github.com/sergeche/emmet-sublime) ⭐ 5,206 | 🐛 194 | 🌐 JavaScript | 📅 2023-06-28 - Improves HTML & CSS workflow
-  * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) ⭐ 5,039 | 🐛 345 | 🌐 Python | 📅 2023-08-28 - Full-featured code intelligence and smart autocomplete engine
+  * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel) ⭐ 5,038 | 🐛 345 | 🌐 Python | 📅 2023-08-28 - Full-featured code intelligence and smart autocomplete engine
   * [DocBlockr](https://github.com/spadgos/sublime-jsdocs) ⭐ 3,073 | 🐛 152 | 🌐 Python | 📅 2018-05-14 - Simplifies writing DocBlock comments
-  * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,225 | 🐛 8 | 🌐 Python | 📅 2026-07-17 - Enhancements to Sublime Text sidebar
-  * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) ⭐ 2,039 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP
+  * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements) ⭐ 2,226 | 🐛 8 | 🌐 Python | 📅 2026-07-17 - Enhancements to Sublime Text sidebar
+  * [SublimeLinter](https://github.com/SublimeLinter/SublimeLinter3) ⭐ 2,038 | 🐛 20 | 🌐 Python | 📅 2026-10-02 - Interactive code linting framework, you have to install SublimeLinter-php too for coding in PHP
   * [BracketHighlighter](https://github.com/facelessuser/BracketHighlighter) ⭐ 1,771 | 🐛 12 | 🌐 Python | 📅 2026-09-17 - Bracket and tag highlighter
   * [Trailing Spaces](https://github.com/SublimeText/TrailingSpaces) ⭐ 888 | 🐛 12 | 🌐 Python | 📅 2023-06-24 - Highlight trailing spaces and delete them
   * [Alignment](https://github.com/wbond/sublime_alignment) ⭐ 519 | 🐛 45 | 🌐 Python | 📅 2022-10-18 - Easy alignment of multiple selections and multi-line selections
@@ -373,4 +373,4 @@ SOFTWARE.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
